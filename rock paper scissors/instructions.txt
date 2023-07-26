@@ -1,0 +1,7 @@
+Launch the Python Rock, Paper, Scissors game from the command-line interface.
+The game will display a prompt to enter your choice Type 0 for Rock, 1 for Paper or 2 for Scissors.
+Type your selection and press Enter to make your move.
+The computer AI will then make its choice.
+The program will announce the result of the round (win, lose, or tie) and update the score accordingly.
+Continue playing additional rounds to see if you can outsmart the computer and achieve a winning streak.
+Whether you want to reminisce about the classic hand game of your childhood or challenge yourself to strategic decision-making, the Python Rock, Paper, Scissors project guarantees hours of amusement. Sharpen your choices and get ready to prove your dominance in this timeless battle of rock, paper, and scissors!
